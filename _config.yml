@@ -1,0 +1,13 @@
+remote_theme: peterdesmet/petridish@1.1
+title: PIICQ
+author: Mattia Cafasso 
+email: cafasso@math.univ-angers.fr
+logo: /assets/img/CNRS.jpg
+archive_permalink: /blog/
+posts_on_home: 3 
+description: > # this means to ignore newlines until "baseurl:"
+ 
+
+# social links
+
+show_excerpts: false # set to false to remove excerpts on the homepage
