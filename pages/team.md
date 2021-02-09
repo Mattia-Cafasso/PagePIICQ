@@ -12,7 +12,7 @@ background : assets/img/cover3.jpg
 -  **[Mattia Cafasso](https://sites.google.com/site/mattiacafasso/)** (coordinator), LAREMA (Angers)
 -  **[Tom Claeys](https://perso.uclouvain.be/tom.claeys/)**, UCLouvain
 -  **[Tamara Grava](https://people.sissa.it/~grava/)**, University of Bristol and SISSA
--  **[Karol Kozlovski](http://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/kozlowski-karol)**, CNRS and Laboratoire de Physique ENS de Lyon
+-  **[Karol Kozlowski](http://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/kozlowski-karol)**, CNRS and Laboratoire de Physique ENS de Lyon
 -  **[Francesco Mezzadri](https://research-information.bris.ac.uk/en/persons/francesco-mezzadri)**, University of Bristol
 -  **[Jean-Marie Stéphan](http://math.univ-lyon1.fr/~stephan/index.html)**, CNRS and Institute Camille Jordan (Lyon)
 
